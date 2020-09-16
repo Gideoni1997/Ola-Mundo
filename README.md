@@ -32,6 +32,6 @@
  
  # Lista de tarefas
  
- - [ ] Atividade 1
+ - [x] Atividade 1
  - [ ] Atividade 2
  - [ ] Atividade 3
