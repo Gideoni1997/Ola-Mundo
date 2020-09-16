@@ -45,4 +45,13 @@
  2|Alex|9,5
  3|Rodrigo|9,3
  
+ #Códigos
  
+```
+num = int(input)('Digite um valor: ')
+if num % 2 == 0:
+    print(f' O valor {num} é PAR')
+else:
+    print(f'O valor {num} é IMPAR)
+```
+
