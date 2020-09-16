@@ -62,3 +62,5 @@ else:
     print(f'O valor {num} é IMPAR)
 ```
 
+# EMOJIS
+: heart
