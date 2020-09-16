@@ -35,3 +35,14 @@
  - [x] Atividade 1
  - [ ] Atividade 2
  - [ ] Atividade 3
+ 
+ 
+ # Tabelas
+ 
+ Num|Nome|Nota
+ ---|---|---|
+ 1|Gideoni|10
+ 2|Alex|9,5
+ 3|Rodrigo|9,3
+ 
+ 
