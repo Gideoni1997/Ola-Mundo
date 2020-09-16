@@ -12,7 +12,26 @@
  __*NEGRITO E ITÁLICO*__
  
  
+ Lista numerada
+ 
+ 1. Teste
+ 2. Teste
+    1. Teste
+    6. Teste
+ 0. Teste
+ 9999. Teste
  
  
+ * Teste
+ * Teste
+    * Teste
+    * Teste
+ - Teste
+ - Teste
+    - Teste
  
+ # Lista de tarefas
  
+ - [ ] Atividade 1
+ - [ ] Atividade 2
+ - [ ] Atividade 3
